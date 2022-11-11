@@ -17,6 +17,7 @@
   --footer-text-color: rgba(255, 255, 255, 0.6);
   --logo-text-color: #000000;
 }
+
 body {
   color: var(--primary-text-color);
   background-color: #ffffff;
@@ -117,6 +118,7 @@ img {
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
+
 .header-link:hover,
 .header-link:focus {
   color: var(--accent);
@@ -173,6 +175,7 @@ img {
   min-width: 216px;
   min-height: 50px;
   border-radius: 4px;
+  border: none;
   padding: 10px 32px;
 }
 
@@ -289,6 +292,7 @@ img {
 .samples-items {
   flex-basis: calc((100% - 2 * 30px) / 3);
 }
+
 /* Content */
 
 .content-section .title {
@@ -298,6 +302,7 @@ img {
   line-height: 2;
   letter-spacing: 0.06em;
 }
+
 .content-title {
   text-align: center;
 }
@@ -330,7 +335,11 @@ img {
   letter-spacing: 0.03em;
   font-family: inherit;
   border-radius: 4px;
+  border: none;
+
 }
+
+
 
 .text-border {
   border: 1px solid #eeeeee;
@@ -411,6 +420,7 @@ img {
   margin-bottom: 9px;
   display: block;
 }
+
 .footer .address {
   font-style: normal;
 }
