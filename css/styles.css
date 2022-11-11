@@ -211,6 +211,7 @@ img {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
+  margin-bottom: 10px;
 }
 
 .features-section .text {
@@ -219,6 +220,8 @@ img {
   line-height: 1.7;
   letter-spacing: 0.03em;
 }
+
+
 
 .features-list {
   display: flex;
@@ -272,9 +275,13 @@ img {
   text-align: center;
 }
 
-.card {
-  margin-bottom: 30px;
+.paint-work{
+  margin: 30px auto;
 }
+
+/* .card {
+  margin-bottom: 30px;
+} */
 
 /* samples-section */
 
