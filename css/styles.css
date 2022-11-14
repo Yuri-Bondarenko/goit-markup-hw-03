@@ -148,8 +148,8 @@ img {
   background-color: #2f303a;
 }
 
-.hero-container{
-  padding:200px 0;
+.hero-container {
+  padding: 200px 0;
 }
 
 .hero-title {
@@ -199,7 +199,7 @@ img {
 
 /* features-section */
 
-.features-section{
+.features-section {
   padding-bottom: 101px;
 }
 
@@ -230,8 +230,6 @@ img {
   line-height: 1.7;
   letter-spacing: 0.03em;
 }
-
-
 
 .features-list {
   display: flex;
@@ -266,8 +264,9 @@ img {
   flex-basis: calc((100% - 3 * 30px) / 4);
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-border-radius: 0px 0px 4px 4px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
 }
 
 .work-section .title {
@@ -289,7 +288,7 @@ border-radius: 0px 0px 4px 4px;
   padding-bottom: 30px;
 }
 
-.paint-work{
+.paint-work {
   display: block;
 }
 
@@ -299,7 +298,7 @@ border-radius: 0px 0px 4px 4px;
 
 /* samples-section */
 
-.samples-section{
+.samples-section {
   padding-top: 0;
 }
 
@@ -361,10 +360,7 @@ border-radius: 0px 0px 4px 4px;
   font-family: inherit;
   border-radius: 4px;
   border: none;
-
 }
-
-
 
 .text-border {
   border: 1px solid #eeeeee;
